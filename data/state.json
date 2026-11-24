@@ -1,6 +1,6 @@
 {
  "player": "S_Raikkonen",
- "lastWave": 1501898,
+ "lastWave": 1501910,
  "hours": {
   "2026-11-24T01": {
    "count": 160,
@@ -95,8 +95,8 @@
    "gain": 636
   },
   "2026-11-25T00": {
-   "count": 30,
-   "gain": 120
+   "count": 33,
+   "gain": 132
   }
  },
  "season": {
@@ -152,5 +152,5 @@
    "total": 1
   }
  ],
- "updated": 1795533068702
+ "updated": 1795533130702
 }
